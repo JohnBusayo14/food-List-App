@@ -57,7 +57,7 @@ div.style.margin = '10px '
 div.style.alignItems = 'center'
 div.style.justifyContent = 'center'
 div.style.display = 'flex'
-div.style.flex = '1 0 60px'
+div.style.flex = '1 0 30%'
 div.style.flexDirection = 'column'
 
 // image style
@@ -65,10 +65,10 @@ img.style.height = '50%'
 img.style.width = '50%'
 
 // p style
-p.style.fontSize = '5px'
+p.style.fontSize = '12px'
 
 // h2 style
-h2.style.fontSize = '3px'
+h2.style.fontSize = '10px'
 
 
 
